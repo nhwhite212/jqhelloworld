@@ -1,0 +1,23 @@
+ <?xml version="1.0" encoding="UTF-8" ?>
+    <widget xmlns = "http://www.w3.org/ns/widgets"
+
+        xmlns:gap   = "http://phonegap.com/ns/1.0"
+        id          = "com.phonegap.example"
+        version     = "1.0.0"
+        versionCode = "10" >
+
+        <!-- versionCode is optional and Android only -->
+
+        <preference name="phonegap-version" value="3.6.3" />
+
+        <name>Sample Config.xml</name>
+
+        <description>
+        An example for phonegap build docs. 
+        </description>
+
+        <author href="http://websys3.stern.nyu.edu/~nwhite" email="nwhite@stern.nyu.edu">
+        Norman White
+        </author>
+
+    </widget>
